@@ -1,4 +1,4 @@
-# React Digital Assets Library
+# React Do It Yourself
 Any component described in this library is going to be analyzed in 4 main points:
 * **Code**: Written as React v16.9 functional components (using hooks)
 * **Styles**: CSS needed to style presentational components
