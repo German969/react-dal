@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Forms",
+    "children": [
+      {
+        "name": "Presentational",
+        "children": [
+          {"name": "Text input"},
+          {"name": "Select"},
+          {"name": "Checkbox"},
+          {"name": "Radio button"},
+          {"name": "Submit button"}
+        ]
+      },
+      {
+        "name": "Container",
+        "children": [
+          {"name": "Saving form state"},
+          {"name": "Submitting a form"},
+          {"name": "Keyboard navigation"}
+        ]
+      }]
+  },
+  {
+    "name": "Table",
+    "children": [
+      {
+        "name": "Presentational",
+        "children": [
+          {"name": "Rows"},
+          {"name": "Columns"}
+        ]
+      },
+      {
+        "name": "Container",
+        "children": [
+          {"name": "Fetching data"},
+          {"name": "Filtering data"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Navigation",
+    "children": [
+      {
+        "name": "Presentational",
+        "children": [
+          {"name": "Tabs"}
+        ]
+      },
+      {
+        "name": "Container",
+        "children": [
+          {"name": "Routing"}
+        ]
+      }
+    ]
+  }
+]
